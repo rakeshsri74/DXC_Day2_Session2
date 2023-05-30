@@ -1,0 +1,6 @@
+El : Expression language that can be used in jsp.
+
+JSTL:JSP Standard Tag Library
+
+	represents a set of tags to simplify the JSP development.
+
